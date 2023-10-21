@@ -1,0 +1,40 @@
+/* <!DOCTYPE html>
+<html> */
+/* <head>
+    <title>CSS</title>
+    <style> */
+.bio {
+  background-color: pink;
+  width: 1000px;
+  height: 850px;
+  margin: 0px auto;
+  padding-inline: 50px;
+  font-size: 40px;
+  font-family: "Poppins", Times, serif;
+  text-align: center;
+}
+.projects {
+    background-color: pink;
+    /* padding-top: 10px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px; */
+    width: 1000px;
+    height: 2000px;
+    margin: 0px auto;
+    font-size: 40px;
+    font-family: "Poppins", Times, serif;
+    text-align: center;
+  }
+/* .projects: hover{
+        background-color: cyan;
+    } */
+h1,
+h2 {
+  color: rgb(255, 0, 123);
+  text-align: center;
+}
+h3{
+    color: rgb(169, 16, 90)
+}
+/* </head> */
