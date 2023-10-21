@@ -10,7 +10,7 @@
   margin: 0px auto;
   padding-inline: 50px;
   font-size: 40px;
-  font-family: "Poppins", Times, serif;
+  font-family: "Wingdings", Times, serif;
   text-align: center;
 }
 .projects {
@@ -23,7 +23,7 @@
     height: 2000px;
     margin: 0px auto;
     font-size: 40px;
-    font-family: "Poppins", Times, serif;
+    font-family: "Wingdings", Times, serif;
     text-align: center;
   }
 /* .projects: hover{
